@@ -3,10 +3,7 @@
 Este projeto consiste na implementação do **Tipo Abstrato de Dados (TAD) Dicionário** utilizando a estrutura de dados **TRIE (árvore digital)**.  
 A aplicação foi desenvolvida no âmbito académico na cadeira de Estrutura de Dados II com o objetivo de aplicar conceitos de **estruturas de dados**, **manipulação de strings** e **verificação de integridade de ficheiros**.
 
-Feito por:
-Eugelice Yuye
-Manuela António
-Siomara dos Santos
+Feito por: Eugelice Yuye, Manuela António e Siomara dos Santos
 
 ## Objetivo do Projeto
 
